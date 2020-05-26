@@ -24,9 +24,10 @@ Clipper class is used to create custom shaped widgets. Check out the [link](http
 
 ## Screenshots of the application 
 
+<p>
 <img src="https://github.com/AmanNegi/FlutterQuoteSender/blob/master/screenshots/main.png" width="400" />
-<img src="https://github.com/AmanNegi/FlutterQuoteSender/blob/master/screenshots/chat_window_1.png" width="100"/>
-
+<img src="https://github.com/AmanNegi/FlutterQuoteSender/blob/master/screenshots/chat_window_1.png" width="400"/>
+</p>
 <p float="left">
   <img src="https://github.com/AmanNegi/FlutterQuoteSender/blob/master/screenshots/signin.png" width="100" /> 
   <img src="https://github.com/AmanNegi/FlutterQuoteSender/blob/master/screenshots/drawer.png" width="100" />
