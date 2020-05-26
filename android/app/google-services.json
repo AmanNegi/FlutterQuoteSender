@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "714257810914",
+    "firebase_url": "https://flutterquote-b10fe.firebaseio.com",
+    "project_id": "flutterquote-b10fe",
+    "storage_bucket": "flutterquote-b10fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714257810914:android:c841929a9aecaae7b025bb",
+        "android_client_info": {
+          "package_name": "com.example.quote_sender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714257810914-s6b9o0uga6jod0tb6uquchudk8mor4op.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA034VAtgTFDHx180mgaPeGliq2y362jDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714257810914-s6b9o0uga6jod0tb6uquchudk8mor4op.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
