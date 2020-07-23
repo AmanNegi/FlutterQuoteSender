@@ -1,5 +1,5 @@
-# FlutterQuoteApp
-A Quote displaying app build using flutter.
+# FlutterQuoteSenderApp
+A Quote displaying app build using flutter which also supports in app messaging with other users.
 
 
 ## Topics Covered
